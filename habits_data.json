@@ -1,0 +1,39 @@
+[
+    {
+        "name": "reading book",
+        "completed_dates": [
+            "2025-06-25",
+            "2025-06-27"
+        ]
+    },
+    {
+        "name": "reaidng book",
+        "completed_dates": [
+            "2025-06-25",
+            "2025-06-27"
+        ]
+    },
+    {
+        "name": "DIRNK WATER",
+        "completed_dates": [
+            "2025-06-25",
+            "2025-06-27"
+        ]
+    },
+    {
+        "name": "WETER",
+        "completed_dates": []
+    },
+    {
+        "name": "WATE PATER",
+        "completed_dates": [
+            "2025-06-27"
+        ]
+    },
+    {
+        "name": "STUDY",
+        "completed_dates": [
+            "2025-06-25"
+        ]
+    }
+]
