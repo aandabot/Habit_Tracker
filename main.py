@@ -108,7 +108,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-st.title("💪 HabitPRO")
+st.title("💪 Habit Tracker")
 st.markdown("### Elevate your consistency, visualize your progress, and master your habits!")
 
 
