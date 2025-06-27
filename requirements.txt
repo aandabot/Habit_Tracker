@@ -1,0 +1,4 @@
+streamlit
+pandas
+matplotlib
+calplot==0.1.7.5 # Use this specific version that worked for you
