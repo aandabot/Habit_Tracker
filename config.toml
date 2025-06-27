@@ -1,0 +1,10 @@
+[theme]
+primaryColor="#FFD700" # Gold
+backgroundColor="#1A1A2E" # Dark blue/purple
+secondaryBackgroundColor="#2C2C42" # Slightly lighter dark for sidebar/expanders
+textColor="#E0E0E0" # Light gray
+font="serif" # A more classic font
+
+[global]
+# Use specific Streamlit version, if needed. Not strictly necessary unless you have issues.
+# tornadoVersion = "6.1.0"
